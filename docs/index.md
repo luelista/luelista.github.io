@@ -12,3 +12,14 @@ Hi, I'm Mira.
 * [Lost and found: stopping bluetooth finders from leaking private information](https://dl.acm.org/doi/10.1145/3395351.3399422) (WiSec '20)
 * [A programming model for application-defined multipath TCP scheduling](https://dl.acm.org/doi/10.1145/3135974.3135979) (Middleware '17, co-author)
 
+## Social Media
+
+* Fediverse: [@luelistan@chaos.social](https://chaos.social/@luelistan)
+* Github: [luelista](https://github.com/luelista)
+
+## Contact
+
+* Matrix: [@luelistan:fachschaften.org](https://matrix.to/#/@luelistan:fachschaften.org)
+* Telegram: @luelista
+* E-Mail: something -at- miraweller.eu
+* Also lots of other platforms and messengers, feel free to ask.
