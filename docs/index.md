@@ -14,7 +14,7 @@ Hi, I'm Mira.
 
 ## Social Media
 
-* Fediverse: [@luelistan@chaos.social](https://chaos.social/@luelistan)
+* Fediverse: [@luelista@chaos.social](https://chaos.social/@luelista)
 * Github: [luelista](https://github.com/luelista)
 
 ## Contact
