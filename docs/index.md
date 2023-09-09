@@ -19,7 +19,7 @@ Hi, I'm Mira.
 
 ## Contact
 
-* Matrix: [@luelistan:fachschaften.org](https://matrix.to/#/@luelistan:fachschaften.org)
+* Matrix: [@luelista:fachschaften.org](https://matrix.to/#/@luelista:fachschaften.org)
 * Telegram: @luelista
 * E-Mail: something -at- miraweller.eu
 * Also lots of other platforms and messengers, feel free to ask.
