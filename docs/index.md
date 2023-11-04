@@ -1,9 +1,12 @@
 # Welcome 
-Hi, I'm Mira.
+Hi, I'm Mira, and this seems to be my website.
 
 
 ![Under Construction ](assets/banners/construction.gif) 
-
+![](assets/banners/gnu-linux.gif)
+![](assets/banners/mozilla2.gif)
+![](assets/banners/gaywebring.gif)
+![](assets/banners/mastodon_button_3.gif)
 
 ## Projects
 
