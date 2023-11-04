@@ -3,10 +3,13 @@ Hi, I'm Mira, and this seems to be my website.
 
 
 ![Under Construction ](assets/banners/construction.gif) 
-![](assets/banners/gnu-linux.gif)
-![](assets/banners/mozilla2.gif)
-![](assets/banners/gaywebring.gif)
-![](assets/banners/mastodon_button_3.gif)
+![Made With Gnu Linux ](assets/banners/gnu-linux.gif)
+![Mozilla ](assets/banners/mozilla2.gif)
+![This Website Is Gay ](assets/banners/gaywebring.gif)
+<a href="https://chaos.social/@luelista">
+![Mastodon ](assets/banners/mastodon_button_3.gif)
+</a>
+![Progress Pride Flag ](assets/banners/ppride.png)
 
 ## Projects
 
