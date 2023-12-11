@@ -15,9 +15,14 @@ markdown_extensions:
   - pymdownx.snippets
   - pymdownx.superfences
   - markdown.extensions.md_in_html:
+  - admonition
+  - pymdownx.details
 nav:
   - Home: index.md
-
+  - Blog: blog/index.md
+plugins:
+  - blog:
+      enabled: true
 extra:
   social:
     - icon: fontawesome/brands/github

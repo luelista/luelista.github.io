@@ -2,18 +2,19 @@
 Hi, I'm Mira, and this seems to be my website.
 
 
-![Under Construction ](assets/banners/construction.gif) 
-![Made With Gnu Linux ](assets/banners/gnu-linux.gif)
-![Mozilla ](assets/banners/mozilla2.gif)
-![This Website Is Gay ](assets/banners/gaywebring.gif)
+![Under Construction](assets/banners/construction.gif) 
+![Made With Gnu Linux](assets/banners/gnu-linux.gif)
+![Mozilla](assets/banners/mozilla2.gif)
+![This Website Is Gay](assets/banners/gaywebring.gif)
 <a href="https://chaos.social/@luelista">
-![Mastodon ](assets/banners/mastodon_button_3.gif)
+![Mastodon](assets/banners/mastodon_button_3.gif)
 </a>
-![Progress Pride Flag ](assets/banners/ppride.png)
+![Progress Pride Flag](assets/banners/ppride.png)
 
 ## Projects
 
 * [PRE Workbench](https://luelista.github.io/pre_workbench/)
+
 
 
 ## Publications
@@ -34,3 +35,14 @@ Hi, I'm Mira, and this seems to be my website.
 * Telegram: @luelista
 * E-Mail: something -at- miraweller.eu
 * Also lots of other platforms and messengers, feel free to ask.
+
+## Work
+
+* [Senior Software Engineer @ Pretix](https://github.com/pretix)
+
+### Previously
+
+* [Senior Software Engineer @ MaibornWolff](https://www.maibornwolff.de)
+* [Student Researcher @ Secure Mobile Systems (TU Darmstadt)](https://www.seemoo.tu-darmstadt.de)
+* [Everything with computers @ Verband für Unabhängige Gesundheitsberatung e.V.](https://www.ugb.de)
+
