@@ -6,6 +6,8 @@ date: 2023-12-19
 
 I listen to podcasts a lot, and I wanted to get into listening to audiobooks. However, I wanted to really buy them as un-DRM'd audio files, but still be able to listen to them via an app on my phone, without having to copy the whole several hundred megabytes onto it. 
 So I thought it might be a good idea to use AntennaPod, a podcast listening app for Android, which can nicely stream podcasts and also manage offline availability.
+<!-- more -->
+
 To that end, I needed to dress up the audiobook (a folder of audio files) as a podcast (an RSS file available at a URL, linking to the audio files available at a URL).
 I already have my audiobooks at my NAS, which also serves them via HTTP locally, so I only needed to create the appropriate RSS file. I took a [m3u to rss script from github](https://github.com/ildar/m3u2rss/blob/master/m3u2rss.sh) and modified it to my needs.
 
