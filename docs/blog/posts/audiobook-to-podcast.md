@@ -5,7 +5,7 @@ date: 2023-12-19
 # Convert an audiobook to a podcast, to listen with AntennaPod
 
 I listen to podcasts a lot, and I wanted to get into listening to audiobooks. However, I wanted to really buy them as un-DRM'd audio files, but still be able to listen to them via an app on my phone, without having to copy the whole several hundred megabytes onto it. 
-So I thought it might be a good idea to use AntennaPod, a podcast listening app for Android, which can nicely stream podcasts and also manage offline availability.
+So I thought it might be a good idea to use [AntennaPod](https://antennapod.org), a podcast listening app for Android, which can nicely stream podcasts and also manage offline availability.
 
 <!-- more -->
 
