@@ -23,6 +23,10 @@ nav:
 plugins:
   - blog:
       enabled: true
+  - rss:
+      match_path: blog/posts/.* 
+      date_from_meta:
+        as_creation: date
 extra:
   social:
     - icon: fontawesome/brands/github
