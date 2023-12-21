@@ -1,4 +1,6 @@
 site_name: Mira's Homepage
+site_url: https://luelista.net/
+
 theme:
   name: material
   features:
