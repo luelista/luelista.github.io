@@ -3,8 +3,11 @@ site_url: https://luelista.net/
 
 theme:
   name: material
+  favicon: assets/favicon.png
   features:
     - content.action.edit
+    #- navigation.tabs
+    - navigation.expand
   palette:
     primary: pink
   icon:
@@ -29,7 +32,10 @@ plugins:
       match_path: blog/posts/.* 
       date_from_meta:
         as_creation: date
-  - social
+  - social:
+      cards_layout_options:
+        font_family: Bangers
+
 extra:
   social:
     - icon: fontawesome/brands/github
@@ -37,4 +43,4 @@ extra:
     - icon: fontawesome/brands/mastodon
       link: https://chaos.social/@luelista
 
-copyright: Copyright &copy; 2023 Mira Weller
+copyright: meow <3   # fuck copyright
