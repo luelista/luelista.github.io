@@ -149,9 +149,11 @@ ipv4.auto-route-ext-gw:                 -1 (default)
 - run calibre "content server"
 - connect to your hotspot on the kindle
 - click "yes" when it asks whether you want to connect to the captive portal
-
-![nonbinary drake meme / ✋ am regnerischen tag im urlaub entspannt bücher lesen / 👉 am regnerischen tag im urlaub stundenlang gegen die ranzige amazon-software auf einem alten kindle mit kaputtem microUSB-port, networkmanager, und dnsmasq kämpfen, um da bücher draufzukopieren](https://github.com/luelista/luelista.github.io/assets/388142/2a1dec79-2007-4674-bbb7-0e825ee8220b)
-
 - navigate to 10.42.0.1:8080 in the web browser
 - download books from calibre to the kindle
 - 🎉
+
+
+
+![nonbinary drake meme / ✋ am regnerischen tag im urlaub entspannt bücher lesen / 👉 am regnerischen tag im urlaub stundenlang gegen die ranzige amazon-software auf einem alten kindle mit kaputtem microUSB-port, networkmanager, und dnsmasq kämpfen, um da bücher draufzukopieren](https://github.com/luelista/luelista.github.io/assets/388142/2a1dec79-2007-4674-bbb7-0e825ee8220b)
+
