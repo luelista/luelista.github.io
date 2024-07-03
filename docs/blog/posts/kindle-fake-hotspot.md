@@ -10,6 +10,8 @@ it also refuses to connect to WiFi hotspots without a backing internet connectio
 
 but, enshittification of the internet to the rescue, the kindle accepts a wifi hotspot with a "captive portal", so we pretend to be one.
 
+<!-- more -->
+
 ## prerequisites
 Python, NetworkManager, dnsmasq, Calibre
 
