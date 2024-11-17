@@ -7,7 +7,7 @@ description: How to temporarily get rid of Gnome's "Oh no! Something has gone wr
 
 If the system[0] thinks that something went horribly wrong in a Gnome desktop session, it starts the systemd user unit [`gnome-session-failed.service`](https://github.com/GNOME/gnome-session/blob/main/data/gnome-session-failed.service.in), which runs the `@libexecdir@/gnome-session-failed` executable with the parameter ` --allow-logout`. This results in the following full-screen message, blocking any other interaction with the session than clicking "Log out", or using ctrl-alt-Fx to switch to a VT:
 
-(insert result of ```sh -c "`nix eval --raw nixpkgs#gnome-session`/libexec/gnome-session-failed --allow-logout &"; sleep 1 ; scrot gnome-session-failed.png ; sleep 1 ; pkill -f gnome-session-failed```)
+![*Oh no! Something has gone wrong.* A problem has occured and the system can't recover. Please log out and try again. Log out](gnome-session-failed.png)
 
 > *Oh no! Something has gone wrong.* A problem has occured and the system can't recover. Please log out and try again. \[Log out]
 
