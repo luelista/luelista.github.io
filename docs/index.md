@@ -13,6 +13,7 @@ Hi, I'm Mira, and this seems to be my website.
 
 ## Projects
 
+* 📌 Pinboard
 * [PRE Workbench](https://luelista.github.io/pre_workbench/)
 
 
