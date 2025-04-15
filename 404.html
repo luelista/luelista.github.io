@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Redirecting to https://luelista.net/</title>
+<div id="info">Redirecting to <a href="https://luelista.net/">https://luelista.net/</a></div>
+<script>
+	var newurl = "https://luelista.net/" + location.href.replace(/^https:\/\/luelista.github.io\//, '');
+	location.href = newurl;
+	document.getElementById("info").innerText = "Redirecting to " + newurl;
+</script>
