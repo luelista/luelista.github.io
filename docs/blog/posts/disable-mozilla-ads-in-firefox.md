@@ -17,10 +17,10 @@ For some reason, Mozilla feels it's a good idea to litter Firefox with ads for t
 * Remove Sponsored Links on New Tab Page  
   `browser.newtabpage.activity-stream.showSponsored	= false`  
   `browser.newtabpage.activity-stream.showSponsoredTopSites = false`
+  
+  (Alternative: Open New tab -> Click Settings icon (bottom right) -> Uncheck "Sponsored shortcuts"
 
-  (alternative: open new tab -> click settings icon in bottom right -> uncheck "Sponsored shortcuts"
-
-(to be continued -- enshittification intensifies 🙄)
+*(to be continued -- enshittification intensifies 🙄)*
 
 References:
 
