@@ -34,11 +34,11 @@ jobs:
       - run: pip install mkdocs-material[imaging] mkdocs-rss-plugin
       - run: mkdocs build --site-dir public
 
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+      - name: Deploy to WebDav
+        uses: woocart/deploy-action@v5
         with:
-          # Upload entire repository
-          path: './public'
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+          url: https://luelista-website-${{ github.ref_name }}.wikilab.de
+          username: ${{ secrets.WEBDAV_USERNAME }}
+          password: ${{ secrets.WEBDAV_PASSWORD }}
+          local: './public'
+          remote: "/"
