@@ -11,7 +11,7 @@ So I thought it might be a good idea to use [AntennaPod](https://antennapod.org)
 <!-- more -->
 
 To that end, I needed to dress up the audiobook (a folder of audio files) as a podcast (an RSS file available at a URL, linking to the audio files available at a URL).
-I already have my audiobooks at my NAS, which also serves them via HTTP locally, so I only needed to create the appropriate RSS file. I took a [m3u to rss script from github](https://github.com/ildar/m3u2rss/blob/master/m3u2rss.sh) and modified it to my needs.
+I already have my audiobooks at my NAS, which also serves them via HTTP locally, so I only needed to create the appropriate RSS file. I took a [m3u to rss script from github](https://github.com/ildar/m3u2rss/blob/master/m3u2rss.sh) and [modified it to my needs](https://codeberg.org/luelista/m3u2rss/src/branch/master/m3u2rss.sh).
 
 1️⃣ First, in my case I needed to convert the audiobook from FLAC to MP3 format, as AntennaPod couldn't seek in the FLACs:
 
@@ -27,7 +27,7 @@ ls -1 *.mp3 > my-audiobook.m3u
 
 Make sure to check that the chapters are in order.
 
-3️⃣ Then I created the podcast RSS file from the M3U file using a [modified version of the script](https://github.com/luelista/m3u2rss/blob/master/m3u2rss.sh), which supports creating the file locally and providing a URL prefix, at which they will be available later on (AntennaPod required absolute URLs in the RSS file):
+3️⃣ Then I created the podcast RSS file from the M3U file using a [modified version of the script](https://codeberg.org/luelista/m3u2rss/src/branch/master/m3u2rss.sh), which supports creating the file locally and providing a URL prefix, at which they will be available later on (AntennaPod required absolute URLs in the RSS file):
 
 ```shell
 sh m3u2rss.sh my-audiobook.m3u "http://my-nas.local/audiobooks/my-audiobook/"
